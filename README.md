@@ -33,8 +33,10 @@ Table of Contents
   #4.1. Stakeholder Profiles p 13 ~ p 15.
   #4.2. Project Priorities p 15 ~ p 16.
   #4.3. Operating Environment p 16. ~ p 20.
- #Appendices p 20 ~ p 23.
- #Appendix A: Prototype Layout Appendix B: Works Cited Appendix C: Gantt Chart Appendix 
+ 
+ Appendices p 20 ~ p 23.
+ 
+ Appendix A: Prototype Layout Appendix B: Works Cited Appendix C: Gantt Chart Appendix 
                                                 D: Raw Data Appendix E: Project Backlog
 
 
