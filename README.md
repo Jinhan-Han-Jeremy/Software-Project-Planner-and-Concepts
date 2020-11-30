@@ -7,13 +7,14 @@ Business Planner and Concepts for Animal Nest Application
 Market Analysis for Animal Nest Application
 
 Table of Contents
-1. Business Requirements /n \n
-1.1. Background p 3. \n
-1.2. Business Opportunity p 4.\n
-1.3. Business Objectives and Success Criteria p 4 ~ p6.
-1.4. Customer or Market Needs p6
-1.5. Business Risks p 6 ~ p 7.
-2. Vision of the Solution
+
+#1. Business Requirements
+#1.1. Background p 3. 
+#1.2. Business Opportunity p 4.\n
+#1.3. Business Objectives and Success Criteria p 4 ~ p6.
+#1.4. Customer or Market Needs p6
+#1.5. Business Risks p 6 ~ p 7.
+#2. Vision of the Solution
 2.1. Vision Statement p 7 ~ p 9.
 2.2. Major Features p 9 ~ p 10.
 2.3. Assumptions and Dependencies p 10.
