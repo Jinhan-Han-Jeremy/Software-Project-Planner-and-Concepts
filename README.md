@@ -9,20 +9,27 @@ Market Analysis for Animal Nest Application
 Table of Contents
 
  1. Business Requirements
+ 
   #1.1. Background p 3. 
   #1.2. Business Opportunity p 4.
   #1.3. Business Objectives and Success Criteria p 4 ~ p6.
   #1.4. Customer or Market Needs p6
   #1.5. Business Risks p 6 ~ p 7.
+  
  2. Vision of the Solution
+ 
   #2.1. Vision Statement p 7 ~ p 9.
   #2.2. Major Features p 9 ~ p 10.
   #2.3. Assumptions and Dependencies p 10.
+  
  3. Scope and Limitations
+ 
   #3.1. Scope of Initial Release p 11.
   #3.2. Scope of Subsequent Releases p 11 ~ 12.
   #3.3. Limitations and Exclusions p 12.
+ 
  4. Business Context
+ 
   #4.1. Stakeholder Profiles p 13 ~ p 15.
   #4.2. Project Priorities p 15 ~ p 16.
   #4.3. Operating Environment p 16. ~ p 20.
