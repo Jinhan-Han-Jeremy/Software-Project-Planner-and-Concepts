@@ -3,7 +3,7 @@
 Animal Nest : Animal rent and boarding service based on P2P System
 
 Project Manager skill
-Business Planner and Concepts for Animal Nest Application
+Business Planner and Concepts for Mobile Application Animal Nest
 Market Analysis for Animal Nest Application
 
 Table of Contents
